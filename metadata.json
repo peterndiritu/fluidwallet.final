@@ -1,0 +1,7 @@
+{
+  "name": "FLUIDWallet Next-Gen",
+  "description": "Advanced Web3 wallet featuring Account Abstraction, WalletConnect v2, and Social Recovery simulation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
